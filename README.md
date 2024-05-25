@@ -1,7 +1,7 @@
 # First Project for AIOPs
 
 ## wokflow -
-![image](https://github.com/Praveenku32k/DVC-ML-Demo-AIOPS/assets/68581081/10eb826e-7867-4b50-b686-d3d0aedd78c9)
+![simple-workflow-01@2x](https://github.com/Praveenku32k/DVC-ML-Demo-AIOPS/assets/68581081/f9ebfb88-c6ec-434f-8572-e7e5a14332fc)
 
 # STEPS:
 ## STEP 01: Create a empty remote repository
